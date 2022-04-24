@@ -32,18 +32,21 @@ a {
     background-color: #eaf6f6;
 }
 
-.middleContainer {
-
+.bottom-cloud {
+    position: relative/*absolute*/;
+    right: 100px;
+    bottom: 300px;
 }
 
-.bottom-cloud {
-    position: absolute;
+.mountain {
+    position: relative;
+    right: 100px;
 }
 
 .top-cloud {
     margin-top: 60px;
     position: relative;
-    left: 200px;
+    left: 400px;
 }
 
 span {
